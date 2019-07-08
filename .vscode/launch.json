@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - glasses",
+            "request": "launch",
+            "mainClass": "glasses"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - firstProgramInJava",
             "request": "launch",
             "mainClass": "firstProgramInJava"
